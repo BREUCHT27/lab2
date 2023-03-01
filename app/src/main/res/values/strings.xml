@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Квадратное уравнение</string>
+    <string name="A">a</string>
+    <string name="B">b</string>
+    <string name="C">c</string>
+    <string name="Click">Вычислить</string>
+</resources>
